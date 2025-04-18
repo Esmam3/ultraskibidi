@@ -1,4 +1,4 @@
-local WindUI = require("./src/init")
+local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Esmam3/ultraskibidi/main/main.lua"))()
 
 -- Set theme:
 -- WindUI:SetTheme("Dark")
